@@ -1,0 +1,18 @@
+{
+  "en": {
+    "welcome": "Welcome to EasySave",
+    "chooseOption": "Choose an option",
+    "create": "Create a backup task",
+    "run": "Run a task",
+    "runAll": "Run all tasks",
+    "exit": "Exit"
+  },
+  "fr": {
+    "welcome": "Bienvenue sur EasySave",
+    "chooseOption": "Choisissez une option",
+    "create": "Créer une tâche de sauvegarde",
+    "run": "Lancer une tâche",
+    "runAll": "Lancer toutes les tâches",
+    "exit": "Quitter"
+  }
+}
