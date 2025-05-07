@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/matteosourdes/Library/Mobile Documents/com~apple~CloudDocs/Cesi/Prosit/EasySave/ConsoleApp1/ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "/Users/matteosourdes/Library/Mobile Documents/com~apple~CloudDocs/Cesi/Prosit/EasySave/ConsoleApp1/ConsoleApp1.csproj",
+      "projectUniqueName": "/Users/matteosourdes/Library/Mobile Documents/com~apple~CloudDocs/Cesi/Prosit/EasySave/ConsoleApp2/ConsoleApp2.csproj",
+      "projectName": "ConsoleApp2",
+      "projectPath": "/Users/matteosourdes/Library/Mobile Documents/com~apple~CloudDocs/Cesi/Prosit/EasySave/ConsoleApp2/ConsoleApp2.csproj",
       "packagesPath": "/Users/matteosourdes/.nuget/packages/",
-      "outputPath": "/Users/matteosourdes/Library/Mobile Documents/com~apple~CloudDocs/Cesi/Prosit/EasySave/ConsoleApp1/obj/",
+      "outputPath": "/Users/matteosourdes/Library/Mobile Documents/com~apple~CloudDocs/Cesi/Prosit/EasySave/ConsoleApp2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/matteosourdes/.nuget/NuGet/NuGet.Config"

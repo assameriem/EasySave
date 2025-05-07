@@ -14,3 +14,4 @@
 /Users/matteosourdes/Library/Mobile Documents/com~apple~CloudDocs/Cesi/Prosit/EasySave/ConsoleApp1/obj/Debug/net9.0/ref/ConsoleApp1.dll
 /Users/matteosourdes/Library/Mobile Documents/com~apple~CloudDocs/Cesi/Prosit/EasySave/ConsoleApp1/bin/Debug/net9.0/Config.json
 /Users/matteosourdes/Library/Mobile Documents/com~apple~CloudDocs/Cesi/Prosit/EasySave/ConsoleApp1/bin/Debug/net9.0/Lang/Languages.json
+/Users/matteosourdes/Library/Mobile Documents/com~apple~CloudDocs/Cesi/Prosit/EasySave/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.sourcelink.json
